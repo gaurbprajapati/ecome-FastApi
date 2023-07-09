@@ -146,11 +146,3 @@ The following API endpoints are available:
 - **Request Body**:
   - `quantity` (int): Updated quantity of the product.
 
-Refer to the API documentation for detailed request and response examples.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to modify and customize the README file further based on your specific application and project requirements.
